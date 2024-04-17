@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SwingSample</string>
+    <string name="feed">피드</string>
+    <string name="favorites">즐겨찾기</string>
+    <string name="search">검색</string>
+    <string name="close">닫기</string>
+</resources>
